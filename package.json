@@ -1,0 +1,9 @@
+{
+  "name": "lecture-tutor-framework",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Selection geometry, notation-aware passage indexing, and page-grounded retrieval.",
+  "engines": { "node": ">=24" },
+  "scripts": { "demo": "node src/demo.ts", "test": "node --test test/*.test.mjs" }
+}
