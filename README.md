@@ -1,4 +1,4 @@
-# LectureTutor Framework
+# Lecture Document Grounding
 
 A TypeScript showcase of the document-grounding layer of LectureTutor, a lecture-PDF study workspace. It turns prepared lecture text and notation into page-addressable passages, then builds a scoped source set that a tutor can cite.
 
